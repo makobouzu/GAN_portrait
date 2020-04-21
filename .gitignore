@@ -1,0 +1,7 @@
+data/*
+!data/img/
+!data/video/
+!data/Generated_Image/
+!data/Weight_Generator/
+!data/Weight_Discriminator/
+!.gitkeep
